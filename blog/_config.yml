@@ -3,12 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: '西绪福斯的山……wait，wtf is this？'
+subtitle: '迷えば敗れる！'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: MirrDark
+language: 
+- zh-CN
+- en
 timezone: ''
 
 # URL
@@ -102,4 +104,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:SDDantes/SDDantes.github.io.git
+  branch: main
