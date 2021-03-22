@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: '西绪福斯的山……wait，wtf is this？'
-subtitle: '测试'
+title: '西绪福斯的山坡'
+subtitle: ''
 description: ''
 keywords:
 author: MirrDark
@@ -46,7 +46,7 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
