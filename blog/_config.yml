@@ -4,7 +4,7 @@
 
 # Site
 title: '西绪福斯的山……wait，wtf is this？'
-subtitle: '迷えば敗れる！'
+subtitle: '测试'
 description: ''
 keywords:
 author: MirrDark
@@ -42,7 +42,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: obsidian
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
