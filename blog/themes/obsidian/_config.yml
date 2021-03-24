@@ -159,7 +159,7 @@ html_truncate:
 # Enable Busuanzi statistic plugin
 # see http://ibruce.info/2015/04/04/busuanzi/
 busuanzi:
-  enable: true
+  enable: false
 
 #Enable social media sharing
 sharejs:
