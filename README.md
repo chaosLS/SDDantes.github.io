@@ -1,2 +1,4 @@
 # SDDantes.github.io
-Personal Blog
+SDDantes/Mirrdark's Personal Blog
+
+Supported by Hexa and Obsidian
