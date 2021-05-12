@@ -10,6 +10,10 @@ cover: /img/Remilia.jpg
 
 <br/><br/>
 
+*Chaosls  投稿*
+
+<br/><br/>
+
 ![](/images/RM1.jpg)
 
 任何人，任何人都会害怕的红魔馆的主人，蕾米莉亚·斯卡雷特正睡在她的床上。
