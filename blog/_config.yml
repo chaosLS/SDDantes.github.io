@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: obsidian
+#theme: obsidian
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,3 +107,9 @@ deploy:
   type: git
   repo: git@github.com:SDDantes/SDDantes.github.io.git
   branch: main
+
+#obsidian search
+search:
+  path: search.xml
+  field: post
+  content: true
